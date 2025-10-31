@@ -4,7 +4,7 @@ from sklearn.linear_model import LinearRegression
 
 mp_face_mesh = mp.solutions.face_mesh
 face_mesh = mp_face_mesh.FaceMesh(refine_landmarks=True)
-cap = cv2.VideoCapture(1)
+cap = cv2.VideoCapture(0)
 
 screen_w, screen_h = pyautogui.size()  
 
