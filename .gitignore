@@ -5,4 +5,5 @@ gaze/
 proctor_screenshots/
 calib.npz
 proctor_log.csv
-calibration_gui.cpython-312.pyc
+__pycache__/
+head_calib.npz
