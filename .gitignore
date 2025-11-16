@@ -2,3 +2,6 @@ venv/
 *.csv
 .venv/
 gaze/
+proctor_screenshots/
+calib.npz
+proctor_log.csv
